@@ -1,0 +1,22 @@
+
+.hero {
+    background: url(../img/hero.jpg) no-repeat center center fixed;
+    background-size: cover;
+    padding-bottom: 80px;
+}
+.heroText{
+    height: 500px;
+}
+
+.heroText h1, .heroText p { color: #fff; }
+
+h1 ,h2 ,h3 ,h4 {
+    font-family: 'Bree Serif', serif;
+}
+
+.darkbg {
+    background-color: #222;
+    padding: 40px 0;
+    
+}
+.darkbg p { color: #ddd;}
